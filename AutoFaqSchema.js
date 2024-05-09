@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function() {
     const faqParents = document.querySelectorAll('[faq=parent]');
     const faqItems = [];
@@ -28,4 +27,3 @@ document.addEventListener("DOMContentLoaded", function() {
         document.head.appendChild(script);
     }
 });
-</script>
